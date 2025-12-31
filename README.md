@@ -18,7 +18,7 @@ Currently building production-grade security tools and infrastructure solutions.
 
 **Offensive Security:**
 - eCPPTv3 (eLearnSecurity Certified Professional Penetration Tester v3)
-- eWPTv2 (eLearnSecurity Web Application Penetration Tester v2)
+- eWPTvx (eLearnSecurity Advanced Web Application Penetration Tester Extreme)
 - eJPT (eLearnSecurity Junior Penetration Tester)
 
 **Cloud & Container Security:**
