@@ -33,84 +33,6 @@ Currently building production-grade security tools and infrastructure solutions.
 - Advanced Docker & Container Orchestration
 
 ---
-
-## 💻 Featured Projects
-
-### 🎮 Trading Card Database Platform
-**Live:** https://adragportfolio.info.gf/tcg
-
-Production-grade React application for searchable trading card database with 80MB+ SQLite backend serving 4 game titles (One Piece, Pokémon, Yu-Gi-Oh, Magic).
-
-**Tech Stack:**
-- React 18 with proper build system
-- FastAPI backend with async queries
-- SQLite (80MB+ database via Git LFS)
-- Docker multi-stage builds
-- Nginx reverse proxy
-- Caddy reverse proxy (path-based routing, SSL/HTTPS)
-- JetBrains Mono bold typography
-- Glassmorphism UI with animations
-
-**Features:**
-- Smart API URL detection (localhost vs production)
-- Autocomplete search with suggestions
-- Game filtering system
-- Full card descriptions with scrollable content
-- Responsive design (mobile to desktop)
-- Production-ready performance
-
----
-
-### 🔐 NIST Password Security Checker
-Advanced password policy validator checking against NIST 800-63B guidelines. Educational tool for demonstrating password complexity analysis and security best practices.
-
-**Features:**
-- Real-time password strength evaluation
-- NIST guideline compliance checking
-- Dictionary attack simulation
-- Entropy calculation
-- Security recommendations
-- Production deployment at scale
-
----
-
-### 💰 Cryptocurrency Price Monitor
-Real-time crypto monitoring dashboard with price tracking, portfolio analysis, and market alerts.
-
-**Tech:**
-- React frontend with live updates
-- Python backend API
-- WebSocket integration
-- Docker containerization
-- Caddy reverse proxy routing
-
----
-
-### 🛡️ Security Audit Platform
-Comprehensive web application security assessment tool for vulnerability scanning and reporting.
-
-**Capabilities:**
-- OWASP Top 10 vulnerability scanning
-- SQL injection detection
-- XSS payload testing
-- CSRF protection assessment
-- Security header analysis
-- Detailed reporting
-
----
-
-### 📋 CVE Tracker & Analysis
-Enterprise-grade vulnerability tracking system for monitoring and analyzing CVE disclosures.
-
-**Features:**
-- Real-time CVE feed integration
-- Severity scoring and ranking
-- Affected software tracking
-- Patch management recommendations
-- Automated alerts
-
----
-
 ## 🛠️ Technical Skills
 
 ### Container & Orchestration
@@ -146,67 +68,6 @@ Enterprise-grade vulnerability tracking system for monitoring and analyzing CVE 
 
 ---
 
-## 📈 Professional Experience
-
-**Purple Team Security Engineer** @ Acquia
-- Designing and implementing FIPS-compliant security solutions
-- Kubernetes security hardening and policy enforcement
-- CI/CD pipeline security assessment and improvement
-- On-call rotation infrastructure management
-- SIEM integration and security monitoring
-
----
-
-## 🚀 Key Achievements
-
-✅ Successfully deployed 5+ production-grade applications  
-✅ Passed 14 industry security certifications  
-✅ Implemented enterprise-scale Kubernetes security policies  
-✅ Created production-ready React applications with complex backend integration  
-✅ Architected multi-tier Docker-based infrastructure  
-✅ Achieved FIPS compliance across infrastructure  
-✅ Built automated security scanning in CI/CD pipelines  
-
----
-
-## 📚 Specializations
-
-1. **Container Security**
-   - Kubernetes security policies and RBAC
-   - Container image scanning and validation
-   - Network policy implementation
-   - Pod security enforcement
-
-2. **Application Security**
-   - Secure SDLC integration
-   - Web application penetration testing
-   - API security assessment
-   - Dependency vulnerability management
-
-3. **Infrastructure Security**
-   - Linux hardening and configuration
-   - Network segmentation
-   - Firewall rules and ACLs
-   - VPN and encryption implementation
-
-4. **DevOps & Automation**
-   - CI/CD security integration
-   - Infrastructure as Code security
-   - Automated compliance checking
-   - Log aggregation and monitoring
-
----
-
-## 🎓 Continuous Learning
-
-Active learner pursuing advanced certifications and keeping current with:
-- Latest Kubernetes security features
-- Cloud-native security practices
-- Emerging vulnerability research
-- Container technology innovations
-
----
-
 ## 💡 Available For
 
 - **Freelance Security Consulting**: Web app audits, infrastructure assessment
@@ -219,10 +80,9 @@ Active learner pursuing advanced certifications and keeping current with:
 
 ## 📞 Let's Connect
 
-- **GitHub**: https://github.com/DarkHexSage
-- **Email**: [your email]
-- **LinkedIn**: [your LinkedIn]
-- **Portfolio**: https://adragportfolio.info.gf
+- **Email**: adrilar2298@gmail.com
+- **LinkedIn**: [[your LinkedIn]](https://www.linkedin.com/in/adriano-aguilar-245008101/)
+- **Portfolio**: [https://adragportfolio.info.gf](https://adrag-portfolio.netlify.app/)
 
 ---
 
@@ -231,5 +91,3 @@ Active learner pursuing advanced certifications and keeping current with:
 Projects are available under MIT License. See individual repositories for details.
 
 ---
-
-**Last Updated:** December 2025 | Based in Costa Rica 🇨🇷
