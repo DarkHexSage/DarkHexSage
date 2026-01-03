@@ -25,10 +25,10 @@ Currently building production-grade security tools and infrastructure solutions.
 - CKA (Certified Kubernetes Administrator)
 - CKAD (Certified Kubernetes Application Developer)
 - EX280 (Red Hat Certified OpenShift Administrator)
-
+- T003 (Terraform Associate)
 **System Administration:**
 - RHCE (Red Hat Certified Engineer)
-- RHCa (Red Hat Certified System Administrator)
+- RHCSA (Red Hat Certified System Administrator)
 - LFCS (Linux Foundation Certified System Administator
 - Advanced Docker & Container Orchestration
 
