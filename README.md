@@ -1,4 +1,4 @@
-# 🔐 DarkHexSage - Security Engineer & Full-Stack Developer
+# DarkHexSage - Security Engineer & Full-Stack Developer
 
 **Purple Team Security Professional | DevOps | Cloud Infrastructure**
 
@@ -6,7 +6,7 @@ Costa Rica 🇨🇷 | Cybersecurity Specialist | Open Source Contributor
 
 ---
 
-## 🎯 About Me
+## About Me
 
 Purple Team Security Engineer with 14+ industry certifications and proven expertise in designing, deploying, and securing containerized applications at scale. Specialized in Kubernetes security, CI/CD pipeline hardening, and comprehensive security assessments. Passionate about building secure infrastructure and creating tools that solve real security challenges.
 
@@ -14,7 +14,7 @@ Currently building production-grade security tools and infrastructure solutions.
 
 ---
 
-## 🏆 Certifications & Credentials
+## Certifications & Credentials
 
 **Offensive Security:**
 - eCPPTv3 (eLearnSecurity Certified Professional Penetration Tester v3)
@@ -33,7 +33,7 @@ Currently building production-grade security tools and infrastructure solutions.
 - Advanced Docker & Container Orchestration
 
 ---
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Container & Orchestration
 - **Docker**: Multi-stage builds, image optimization, volume management
@@ -68,7 +68,7 @@ Currently building production-grade security tools and infrastructure solutions.
 
 ---
 
-## 💡 Available For
+## Available For
 
 - **Freelance Security Consulting**: Web app audits, infrastructure assessment
 - **Full-Stack Development**: React + Python backend applications
@@ -78,7 +78,7 @@ Currently building production-grade security tools and infrastructure solutions.
 
 ---
 
-## 📞 Let's Connect
+## Let's Connect
 
 - **Email**: adrilar2298@gmail.com
 - **LinkedIn**: [[your LinkedIn]](https://www.linkedin.com/in/adriano-aguilar-245008101/)
