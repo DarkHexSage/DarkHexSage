@@ -19,7 +19,6 @@ Currently building production-grade security tools and infrastructure solutions.
 **Offensive Security:**
 - eCPPTv3 (eLearnSecurity Certified Professional Penetration Tester v3)
 - eWPTvx (eLearnSecurity Advanced Web Application Penetration Tester Extreme)
-- eJPT (eLearnSecurity Junior Penetration Tester)
 
 **Cloud & Container Security:**
 - CKS (Certified Kubernetes Security Specialist)
@@ -29,7 +28,8 @@ Currently building production-grade security tools and infrastructure solutions.
 
 **System Administration:**
 - RHCE (Red Hat Certified Engineer)
-- FIPS Compliance Certified
+- RHCa (Red Hat Certified System Administrator)
+- LFCS (Linux Foundation Certified System Administator
 - Advanced Docker & Container Orchestration
 
 ---
