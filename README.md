@@ -26,6 +26,7 @@ Currently building production-grade security tools and infrastructure solutions.
 - CKAD (Certified Kubernetes Application Developer)
 - EX280 (Red Hat Certified OpenShift Administrator)
 - T003 (Terraform Associate)
+
 **System Administration:**
 - RHCE (Red Hat Certified Engineer)
 - RHCSA (Red Hat Certified System Administrator)
