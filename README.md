@@ -81,8 +81,8 @@ Currently building production-grade security tools and infrastructure solutions.
 ## Let's Connect
 
 - **Email**: adrilar2298@gmail.com
-- **LinkedIn**: [[your LinkedIn]](https://www.linkedin.com/in/adriano-aguilar-245008101/)
-- **Portfolio**: [https://adragportfolio.info.gf](https://adrag-portfolio.netlify.app/)
+- **LinkedIn**: [[(https://www.linkedin.com/in/adriano-aguilar-245008101/)]](https://www.linkedin.com/in/adriano-aguilar-245008101/)
+- **Portfolio**: [https://adrag-portfolio.netlify.app](https://adrag-portfolio.netlify.app/)
 
 ---
 
