@@ -7,7 +7,9 @@
 
 [![](./source/header.png)](#)
 
-![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=26&pause=1000&color=FF1493&width=500&lines=Security+Engineer+%26+Full-Stack+Developer;Purple+Team+Security+Professional;14%2B+Industry+Certifications;Open+Source+Contributor)
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=26&pause=1000&color=FF1493&width=500&lines=Security+Engineer+%26+Full-Stack+Developer;Purple+Team+Security+Professional;14%2B+Industry+Certifications;Open+Source+Contributor" alt="typing svg">
+</p>
 
 ---
 
