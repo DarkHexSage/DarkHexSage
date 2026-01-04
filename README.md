@@ -76,11 +76,16 @@ Currently building **production-grade security tools** and **infrastructure solu
 
 ---
 
+<div align="center">
+
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkHexSage&theme=tokyonight)](https://github.com/DarkHexSage)
+
 ### 🐍 Contribution Snake
 
 ![snake animation](https://raw.githubusercontent.com/DarkHexSage/DarkHexSage/output/github-contribution-grid-snake-dark.svg)
 
----
+</div>
+
 
 ## 🎧 Spotify Playing
 
