@@ -11,6 +11,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=26&pause=1000&color=FF1493&width=500&lines=Security+Engineer+%26+Full-Stack+Developer;Purple+Team+Security+Professional;14%2B+Industry+Certifications;Open+Source+Contributor" alt="typing svg">
 </p>
 
+<div align="center">
+
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkHexSage&theme=tokyonight)](https://github.com/DarkHexSage)
+
+### 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/DarkHexSage/DarkHexSage/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 ---
 
 ## 👋 **About Me**
@@ -22,16 +31,6 @@ Currently building **production-grade security tools** and **infrastructure solu
 **Location:** Costa Rica 🇨🇷
 
 ---
-
-<div align="center">
-
-[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkHexSage&theme=tokyonight)](https://github.com/DarkHexSage)
-
-### 🐍 Contribution Snake
-
-![snake animation](https://raw.githubusercontent.com/DarkHexSage/DarkHexSage/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 
 ## 🏆 **Certifications & Credentials**
