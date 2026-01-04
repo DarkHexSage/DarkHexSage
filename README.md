@@ -23,6 +23,17 @@ Currently building **production-grade security tools** and **infrastructure solu
 
 ---
 
+<div align="center">
+
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkHexSage&theme=tokyonight)](https://github.com/DarkHexSage)
+
+### 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/DarkHexSage/DarkHexSage/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
 ## 🏆 **Certifications & Credentials**
 
 ### **Offensive Security**
@@ -75,17 +86,6 @@ Currently building **production-grade security tools** and **infrastructure solu
 ![VS%20Code](https://img.shields.io/badge/-VS%20Code-555?style=flat&logo=visual-studio-code)&nbsp;
 
 ---
-
-<div align="center">
-
-[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkHexSage&theme=tokyonight)](https://github.com/DarkHexSage)
-
-### 🐍 Contribution Snake
-
-![snake animation](https://raw.githubusercontent.com/DarkHexSage/DarkHexSage/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 
 ## 🎧 Spotify Playing
 
