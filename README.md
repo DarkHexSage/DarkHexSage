@@ -76,19 +76,16 @@ Currently building **production-grade security tools** and **infrastructure solu
 
 ---
 
-## 📊 **GitHub Activity & Stats**
+### 🐍 Contribution Snake
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkHexSage&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/DarkHexSage)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHexSage&theme=tokyonight&langs_count=8)](https://github.com/DarkHexSage)
-
-[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkHexSage&theme=tokyonight)](https://github.com/DarkHexSage)
-
-</div>
+![snake animation](https://raw.githubusercontent.com/DarkHexSage/DarkHexSage/output/github-contribution-grid-snake-dark.svg)
 
 ---
+
+## 🎧 Spotify Playing
+
+[![Playlist 1](https://img.shields.io/badge/Playlist%201-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6OaE2PKhXOqJeKCgisdaqP?si=f75404b638544ceb)
+[![Playlist 2](https://img.shields.io/badge/Playlist%202-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4S7lBrvg903br9VnLUfLET?si=1f78aac27f264c10)
 
 ## 💼 **Available For**
 
