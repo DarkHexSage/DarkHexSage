@@ -1,4 +1,4 @@
-# DarkHexSage - Security Engineer & Full-Stack Developer
+Security Engineer & Full-Stack Developer
 
 **Purple Team Security Professional | DevOps | Cloud Infrastructure**
 
