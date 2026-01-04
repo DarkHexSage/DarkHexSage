@@ -1,72 +1,81 @@
 <p align="center">
-    <a href="https://github.com/DarkHexSage"><img src="https://img.shields.io/badge/status-actively%20coding-brightgreen.svg"></a>
+    <a href="https://github.com/DarkHexSage"><img src="https://img.shields.io/badge/status-actively%20building-brightgreen.svg"></a>
     <a href="https://github.com/DarkHexSage"><img src="https://img.shields.io/badge/Security-Purple%20Team-FF1493.svg"></a>
     <a href="https://github.com/DarkHexSage?tab=repositories"><img src="https://img.shields.io/github/stars/DarkHexSage?style=social"></a>
-    <a href="https://github.com/DarkHexSage?tab=followers"><img src="https://img.shields.io/github/followers/DarkHexSage?style=social"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=DarkHexSage.DarkHexSage" alt="visitors"/>
 </p>
 
-<!-- HEADER IMAGE - See instructions below -->
 [![](./src/header.png)](#)
 
-![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=28&pause=1000&color=FF1493&width=500&lines=Purple+Team+Security+Engineer;Cybersecurity+Researcher;Full-Stack+Web+Developer;Open-Source+Contributor;Costa+Rica+%F0%9F%8C%B4)
-
-> **I'm a Purple Team Security Engineer with a passion for building secure applications.** 
-> 
-> Highly motivated professional with strong technical skills in cybersecurity, cloud infrastructure, containerization, and full-stack web development. I love solving complex security problems, building innovative projects, and sharing knowledge with the community. ☕💻🔐
+![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=26&pause=1000&color=FF1493&width=500&lines=Security+Engineer+%26+Full-Stack+Developer;Purple+Team+Security+Professional;14%2B+Industry+Certifications;Open+Source+Contributor)
 
 ---
 
-## 🛠️ **Tech Stack**
+## 👋 **About Me**
 
-### 🔒 **Security & DevSecOps**
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=kubernetes)&nbsp;
+**Purple Team Security Engineer** with **14+ industry certifications** and proven expertise in designing, deploying, and securing containerized applications at scale. Specialized in Kubernetes security, CI/CD pipeline hardening, and comprehensive security assessments. Passionate about building secure infrastructure and creating tools that solve real security challenges.
+
+Currently building **production-grade security tools** and **infrastructure solutions**. Active contributor to open-source security projects with focus on practical, enterprise-ready implementations.
+
+**Location:** Costa Rica 🇨🇷
+
+---
+
+## 🏆 **Certifications & Credentials**
+
+### **Offensive Security**
+[![eCPPTv3](https://img.shields.io/badge/eCPPTv3-Certified-FF1493?style=flat-square)](#)
+[![eWPTvx](https://img.shields.io/badge/eWPTvx-Certified-FF1493?style=flat-square)](#)
+
+### **Cloud & Container Security**
+[![CKS](https://img.shields.io/badge/CKS-Certified-4CAF50?style=flat-square)](#)
+[![CKA](https://img.shields.io/badge/CKA-Certified-4CAF50?style=flat-square)](#)
+[![CKAD](https://img.shields.io/badge/CKAD-Certified-4CAF50?style=flat-square)](#)
+[![EX280](https://img.shields.io/badge/EX280-Red%20Hat%20OpenShift-555?style=flat-square)](#)
+[![T003](https://img.shields.io/badge/T003-Terraform%20Associate-6B4FE4?style=flat-square)](#)
+
+### **System Administration**
+[![RHCE](https://img.shields.io/badge/RHCE-Red%20Hat%20Certified-555?style=flat-square)](#)
+[![RHCSA](https://img.shields.io/badge/RHCSA-Certified-555?style=flat-square)](#)
+[![LFCS](https://img.shields.io/badge/LFCS-Linux%20Foundation-555?style=flat-square)](#)
+
+---
+
+## 🛠️ **Technical Skills**
+
+### **Container & Orchestration**
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=docker)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-555?style=flat&logo=jenkins)&nbsp;
-![FIPS](https://img.shields.io/badge/-FIPS%20Compliance-555?style=flat)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=kubernetes)&nbsp;
+![OpenShift](https://img.shields.io/badge/-OpenShift-555?style=flat&logo=redhat)&nbsp;
+![Docker%20Compose](https://img.shields.io/badge/-Docker%20Compose-555?style=flat)&nbsp;
+
+### **Security & Compliance**
+![FIPS](https://img.shields.io/badge/-FIPS%20Compliance-FF1493?style=flat)&nbsp;
+![Pentesting](https://img.shields.io/badge/-Penetration%20Testing-FF1493?style=flat)&nbsp;
 ![Trivy](https://img.shields.io/badge/-Trivy-555?style=flat)&nbsp;
+![SIEM](https://img.shields.io/badge/-SIEM%20Integration-555?style=flat)&nbsp;
 
-### 💻 **Backend & DevOps**
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-555?style=flat&logo=postgresql)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)&nbsp;
+### **CI/CD & Infrastructure**
+![Jenkins](https://img.shields.io/badge/-Jenkins-555?style=flat&logo=jenkins)&nbsp;
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-555?style=flat)&nbsp;
+![SonarQube](https://img.shields.io/badge/-SonarQube-555?style=flat)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-555?style=flat&logo=terraform)&nbsp;
 
-### 🎨 **Frontend & Web**
+### **Full-Stack Development**
 ![React](https://img.shields.io/badge/-React-555?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-555?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-555?style=flat&logo=css3)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-555?style=flat&logo=tailwind-css)&nbsp;
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-555?style=flat)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-555?style=flat&logo=postgresql)&nbsp;
 
-### ☁️ **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazon-aws)&nbsp;
-![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-555?style=flat&logo=oracle)&nbsp;
-![Caddy](https://img.shields.io/badge/-Caddy-555?style=flat)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-555?style=flat&logo=nginx)&nbsp;
-
-### 🛠️ **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-555?style=flat&logo=visual-studio-code)&nbsp;
+### **Systems & Tools**
 ![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-555?style=flat&logo=gnu-bash)&nbsp;
+![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
+![VS%20Code](https://img.shields.io/badge/-VS%20Code-555?style=flat&logo=visual-studio-code)&nbsp;
 
 ---
 
-## 🏆 **Certifications**
-
-[![eCPPTv3](https://img.shields.io/badge/eCPPTv3-Certified-FF1493?style=for-the-badge)](#)
-[![RHCE](https://img.shields.io/badge/RHCE-Red%20Hat%20Certified-555?style=for-the-badge)](#)
-[![CKS](https://img.shields.io/badge/CKS-Certified-4CAF50?style=for-the-badge)](#)
-[![CKA](https://img.shields.io/badge/CKA-Certified-4CAF50?style=for-the-badge)](#)
-[![CKAD](https://img.shields.io/badge/CKAD-Certified-4CAF50?style=for-the-badge)](#)
-[![eWPTv2](https://img.shields.io/badge/eWPTv2-Certified-FF1493?style=for-the-badge)](#)
-[![EX280](https://img.shields.io/badge/EX280-264%2F300%20%F0%9F%94%A5-FF1493?style=for-the-badge)](#)
-
----
-
-## 📈 **GitHub Activity & Stats**
+## 📊 **GitHub Activity & Stats**
 
 <table>
     <tr>
@@ -111,53 +120,35 @@
 
 ---
 
-## 🚀 **What I'm Working On**
+## 💼 **Available For**
 
-<details open>
-<summary><b>📌 Featured Projects</b></summary>
-
-- 🛡️ **Security Scanners** - Container & web application vulnerability scanning
-- 💰 **Crypto Price Dashboard** - Real-time cryptocurrency price tracking with React
-- 🔐 **Password Security Checker** - NIST SP 800-63B compliance validator
-- 🏋️ **Gym Business** - Building a fitness & wellness venture
-- 📚 **Security Research** - Purple team methodologies & techniques
-
-</details>
+- **Freelance Security Consulting** - Web app audits, infrastructure assessment
+- **Full-Stack Development** - React + Python backend applications  
+- **Kubernetes Architecture** - Secure cluster design and implementation
+- **DevOps Engineering** - CI/CD pipeline security and optimization
+- **Contract Security Work** - Penetration testing, security assessments
 
 ---
 
-## 💡 **Highlighted Skills**
+## 🌐 **Let's Connect**
 
-| Category | Skills |
-|----------|--------|
-| **Security** | Penetration Testing, Purple Team, CI/CD Security, Container Security, FIPS Compliance, Vulnerability Assessment |
-| **Cloud** | AWS, Oracle Cloud, Kubernetes, Docker, Infrastructure as Code |
-| **Backend** | Python, Node.js, Flask, API Design, Database Optimization |
-| **Frontend** | React, JavaScript, HTML/CSS, Responsive Design |
-| **DevOps** | Jenkins, GitOps, Monitoring, Logging, Infrastructure Hardening |
-
----
-
-## 🌐 **Connect With Me**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-adragportfolio.info.gf-FF1493?style=flat-square)](https://adragportfolio.info.gf)
+[![Email](https://img.shields.io/badge/Email-adrilar2298@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:adrilar2298@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriano%20Aguilar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adriano-aguilar-245008101/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adrag--portfolio.netlify.app-FF1493?style=flat-square)](https://adrag-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-@DarkHexSage-555?style=flat-square&logo=github)](https://github.com/DarkHexSage)
-[![Twitter](https://img.shields.io/badge/Twitter-@DarkHexSage-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/DarkHexSage)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DarkHexSage-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/darkhexsage)
-[![Email](https://img.shields.io/badge/Email-DarkHexSage@email.com-EA4335?style=flat-square&logo=gmail)](mailto:your@email.com)
 
 ---
 
 ## ☕ **Support My Work**
 
-If you like my projects and want to support my journey into cybersecurity and open-source development:
+Building secure infrastructure and open-source security tools takes dedication. If you find value in my work:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%9D%A4-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/darkhexsage)
 
 ---
 
 <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=DarkHexSage.DarkHexSage" alt="visitors" />
+    🔐 Security First, Always | 💻 Code with Purpose | 🌴 Built in Costa Rica
 </p>
 
-💖 Made with passion in Costa Rica 🌴 | Security First, Always 🔐
+📄 **License:** Projects available under MIT License. See individual repositories for details.
