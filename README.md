@@ -5,7 +5,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=DarkHexSage.DarkHexSage" alt="visitors"/>
 </p>
 
-[![](./src/header.png)](#)
+[![](./source/header.png)](#)
 
 ![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=26&pause=1000&color=FF1493&width=500&lines=Security+Engineer+%26+Full-Stack+Developer;Purple+Team+Security+Professional;14%2B+Industry+Certifications;Open+Source+Contributor)
 
