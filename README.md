@@ -54,7 +54,6 @@ Currently building **production-grade security tools** and **infrastructure solu
 ### **Security & Compliance**
 ![FIPS](https://img.shields.io/badge/-FIPS%20Compliance-FF1493?style=flat)&nbsp;
 ![Pentesting](https://img.shields.io/badge/-Penetration%20Testing-FF1493?style=flat)&nbsp;
-![Trivy](https://img.shields.io/badge/-Trivy-555?style=flat)&nbsp;
 ![SIEM](https://img.shields.io/badge/-SIEM%20Integration-555?style=flat)&nbsp;
 
 ### **CI/CD & Infrastructure**
