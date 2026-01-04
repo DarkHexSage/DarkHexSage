@@ -78,46 +78,15 @@ Currently building **production-grade security tools** and **infrastructure solu
 
 ## 📊 **GitHub Activity & Stats**
 
-<table>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/DarkHexSage#gh-light-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api?username=DarkHexSage&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="GitHub Stats"/>
-            </a>
-            <a href="https://github.com/DarkHexSage#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api?username=DarkHexSage&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="GitHub Stats"/>
-            </a>
-        </td>
-        <td rowspan="2" align="center">
-            <a href="https://github.com/DarkHexSage#gh-light-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHexSage&theme=default&langs_count=8#gh-light-mode-only" alt="Top Languages"/>
-            </a>
-            <a href="https://github.com/DarkHexSage#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHexSage&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="Top Languages"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/DarkHexSage#gh-light-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkHexSage&theme=default"/>
-            </a>
-            <a href="https://github.com/DarkHexSage#gh-dark-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkHexSage&theme=tokyonight"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="https://github.com/DarkHexSage#gh-light-mode-only">
-                <img src="https://raw.githubusercontent.com/DarkHexSage/DarkHexSage/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="Contribution Snake"/>
-            </a>
-            <a href="https://github.com/DarkHexSage#gh-dark-mode-only">
-                <img src="https://raw.githubusercontent.com/DarkHexSage/DarkHexSage/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake"/>
-            </a>
-        </td>
-    </tr>
-</table>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkHexSage&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/DarkHexSage)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHexSage&theme=tokyonight&langs_count=8)](https://github.com/DarkHexSage)
+
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkHexSage&theme=tokyonight)](https://github.com/DarkHexSage)
+
+</div>
 
 ---
 
