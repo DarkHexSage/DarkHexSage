@@ -110,7 +110,7 @@ Currently building **production-grade security tools** and **infrastructure solu
 
 Building secure infrastructure and open-source security tools takes dedication. If you find value in my work:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%9D%A4-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/darkhexsage)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%9D%A4-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/darkhexsage-adrag)
 
 ---
 
