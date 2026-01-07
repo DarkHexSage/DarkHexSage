@@ -98,6 +98,11 @@ Currently building **production-grade security tools** and **infrastructure solu
 - **Contract Security Work** - Penetration testing, security assessments
 
 ---
+## Portfolio
+
+[CLICK ME :)](https://adrag-portfolio.netlify.app/projects)
+
+
 
 ## 🌐 **Let's Connect**
 
